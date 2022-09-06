@@ -1,1 +1,2 @@
-Sitemap: https://vitali-fedulov.github.io/sitemap.txt
+Sitemap: /sitemap.txt
+Disallow: /similar.pictures/$
