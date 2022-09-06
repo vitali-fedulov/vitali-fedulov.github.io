@@ -1,2 +1,2 @@
 Sitemap: /sitemap.txt
-Disallow: /similar.pictures/$
+Disallow: /similar.pictures/index.html$
